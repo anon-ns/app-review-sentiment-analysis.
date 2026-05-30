@@ -12,7 +12,7 @@ Multi-model sentiment classifier trained on ~49,000 app reviews. Classifies revi
 | Support Vector Machine | 65.9% |
 | Random Forest | 63.8% |
 | Logistic Regression | 58.1% |
-| LSTM | 52.4% |
+| LSTM | 70.1% |
 
 ---
 
