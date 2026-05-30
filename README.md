@@ -42,7 +42,7 @@ Multi-model sentiment classifier trained on ~49,000 app reviews. Classifies revi
 ## How to Run
 
 1. Upload the dataset to Google Drive
-2. Open `MODELS_v6(1).ipynb` in Google Colab
+2. Open `sentiment-analysis(1).ipynb` in Google Colab
 3. Update the dataset path in Cell 5 to match your Drive location
 4. Runtime → Run all
 
